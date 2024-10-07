@@ -3,11 +3,12 @@ import os
 import sys
 import re
 import argparse
+from io import StringIO
 
 # Clase para almacenar información de muestras
 class Sample:
     def __init__(self):
-        self.sample_path = ""
+        self.sample_path = None
         self.midi_note = None
         self.loop_mode = None
         self.off_mode = None
@@ -30,6 +31,9 @@ def parse_sfz(sfz_path, base_dir):
         for line in lines:
             line = line.strip()
 
+            print ("section: "+current_section)
+            print (line)
+
             # Manejar default_path
             if line.startswith("default_path="):
                 default_path = os.path.join(base_dir, line.split('=')[1].strip())
@@ -47,9 +51,6 @@ def parse_sfz(sfz_path, base_dir):
             # Reemplazar variables definidas en las líneas posteriores
             for define_key, define_value in defines.items():
                 line = re.sub(rf"\${define_key}", define_value, line)
-
-            print ("section: "+current_section)
-            print (line)
 
             # Manejar incluye
             if line.startswith("#include"):
@@ -97,8 +98,9 @@ def parse_sfz(sfz_path, base_dir):
                     sample_data.sample_path = os.path.join(default_path, sample_path) if not os.path.isabs(sample_path) else sample_path
                     continue
                 else: 
-                    print("Error, un sample= deberia estar dentro de una region")
-                    sys.exit()
+                    print("warning: Error, un sample= deberia estar dentro de una region")
+                    #sys.exit()
+                    continue
             
             if line.startswith("pitch_keycenter="):
                 if (current_section == 'region'):
@@ -146,11 +148,10 @@ def parse_sfz(sfz_path, base_dir):
                         value = value.strip()
                         if hasattr(sample_data, key):
                             setattr(sample_data, key, value)
-            else:
-                print("NO DEBERIAMOS LLEGAR A AQUI?")
-                sys.exit()
 
-            if len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
+            #if len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
+            #if len(line) == 0 and sample_data.sample_path is not None and sample_data.midi_note is not None:  # Fin de la región
+            if len(line) == 0 and sample_data.sample_path is not None:  # Fin de la región
                 samples.append(sample_data)
 
 
@@ -188,6 +189,9 @@ def create_drumgizmo_xml(samples, output_xml_path):
 
     # Crear el árbol XML
     tree = ET.ElementTree(kit)
+    ET.indent(tree, f" ")
+
+    output = StringIO()
 
     # Escribir el XML al archivo de salida
     tree.write(output_xml_path, encoding='utf-8', xml_declaration=True)
