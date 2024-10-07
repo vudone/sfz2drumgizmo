@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import os
 import sys
 import re
+import argparse
 
 # Clase para almacenar información de muestras
 class Sample:
@@ -29,9 +30,6 @@ def parse_sfz(sfz_path, base_dir):
         for line in lines:
             line = line.strip()
 
-            print ("section: "+current_section)
-            print (line)
-
             # Manejar default_path
             if line.startswith("default_path="):
                 default_path = os.path.join(base_dir, line.split('=')[1].strip())
@@ -50,14 +48,20 @@ def parse_sfz(sfz_path, base_dir):
             for define_key, define_value in defines.items():
                 line = re.sub(rf"\${define_key}", define_value, line)
 
+            print ("section: "+current_section)
+            print (line)
+
             # Manejar incluye
             if line.startswith("#include"):
                 include_path = line.split('"')[1]
                 include_full_path = os.path.join(base_dir, include_path)
-                include_full_path = include_path
                 if os.path.exists(include_full_path):
                     print(f"Incluyendo {include_full_path}")
-                    samples.extend(parse_sfz(include_full_path, os.path.dirname(include_full_path)))
+                    #samples.extend(parse_sfz(include_full_path, os.path.dirname(include_full_path)))
+                    samples.extend(parse_sfz(include_full_path, base_dir))
+                else:
+                    print(f"El fichero {include_full_path} No existe")
+                    sys.exit()
                 continue
 
             # Manejar <master>
@@ -65,19 +69,52 @@ def parse_sfz(sfz_path, base_dir):
                 current_master_data = {}  # Reiniciar los datos del master
                 current_section = 'master'
                 continue
-            elif '=' in line and current_master_data is not None and current_section=='master':
+            # Manejar <group>
+            elif line.startswith("<group>"):
+                current_group_data = current_master_data.copy()  # Copia los datos del master al grupo
+                current_section = 'group'
+                continue
+            # Manejar <global>
+            elif line.startswith("<global>"):
+                current_global_data = {}  # Reiniciar los datos globales
+                current_section = 'global'
+                continue
+            # Manejar <control>
+            elif line.startswith("<control>"):
+                sample_data.control = {}  # Reiniciar datos de control
+                current_section = 'control'
+                continue
+            # Manejar <region>
+            elif line.startswith("<region>"):
+                sample_data = Sample()  # Crear nueva instancia para la región
+                sample_data.__dict__.update(current_group_data)  # Copiar datos del grupo
+                current_section = 'region'
+                continue
+
+            if line.startswith("sample="):
+                if (current_section == 'region'):
+                    sample_path = line.split('=')[1].strip()
+                    sample_data.sample_path = os.path.join(default_path, sample_path) if not os.path.isabs(sample_path) else sample_path
+                    continue
+                else: 
+                    print("Error, un sample= deberia estar dentro de una region")
+                    sys.exit()
+            
+            if line.startswith("pitch_keycenter="):
+                if (current_section == 'region'):
+                    sample_data.midi_note = int(line.split('=')[1].strip())
+                    continue
+                else:
+                    print("Error, un pitch_keycenter= deberia estar dentro de una region")
+                    sys.exit()
+
+            if '=' in line and current_master_data is not None and current_section=='master':
                 # Procesar múltiples asignaciones en una línea
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_master_data[key.strip()] = value.strip()
-                continue
-           
-            # Manejar <group>
-            if line.startswith("<group>"):
-                current_group_data = current_master_data.copy()  # Copia los datos del master al grupo
-                current_section = 'group'
                 continue
             elif '=' in line and current_group_data is not None and current_section=='group':
                 pairs = line.split()
@@ -86,24 +123,12 @@ def parse_sfz(sfz_path, base_dir):
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_group_data[key.strip()] = value.strip()
                 continue
-
-            # Manejar <global>
-            if line.startswith("<global>"):
-                current_global_data = {}  # Reiniciar los datos globales
-                current_section = 'global'
-                continue
             elif '=' in line and current_global_data is not None and current_section=='global':
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_global_data[key.strip()] = value.strip()
-                continue
-
-            # Manejar <control>
-            if line.startswith("<control>"):
-                sample_data.control = {}  # Reiniciar datos de control
-                current_section = 'control'
                 continue
             elif '=' in line and sample_data.control is not None and current_section=='control':
                 pairs = line.split()
@@ -112,23 +137,7 @@ def parse_sfz(sfz_path, base_dir):
                         key, value = pair.split('=', 1)
                         sample_data.control[key.strip()] = value.strip()
                 continue
-    
-            # Manejar <region>
-            if line.startswith("<region>"):
-                sample_data = Sample()  # Crear nueva instancia para la región
-                sample_data.__dict__.update(current_group_data)  # Copiar datos del grupo
-                current_section = 'region'
-                continue
-            elif line.startswith("sample="):
-                sample_path = line.split('=')[1].strip()
-                sample_data.sample_path = os.path.join(default_path, sample_path) if not os.path.isabs(sample_path) else sample_path
-            elif line.startswith("pitch_keycenter="):
-                sample_data.midi_note = int(line.split('=')[1].strip())
-            elif len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
-                samples.append(sample_data)
-
-            # Manejar configuraciones de la región
-            if '=' in line:
+            elif '=' in line and current_section=='region':
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
@@ -137,6 +146,13 @@ def parse_sfz(sfz_path, base_dir):
                         value = value.strip()
                         if hasattr(sample_data, key):
                             setattr(sample_data, key, value)
+            else:
+                print("NO DEBERIAMOS LLEGAR A AQUI?")
+                sys.exit()
+
+            if len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
+                samples.append(sample_data)
+
 
     print (sample_data)
     return samples
@@ -178,19 +194,28 @@ def create_drumgizmo_xml(samples, output_xml_path):
     print(f"XML de DrumGizmo creado: {output_xml_path}")
 
 
+
+parser = argparse.ArgumentParser(description="Params")
+
+parser.add_argument("--input", type=str, help="File Input SFZ")
+parser.add_argument("--output", type=str, help="File Output XML Drumgizmo")
+
+args = parser.parse_args()
+
+print (args)
 # Ruta del archivo SFZ principal
-if not os.path.isfile(sys.argv[1]):
-    print ("El fichero que intentas cargar no existe\n");
+if not os.path.isfile(args.input):
+    print ("El fichero que intentas cargar '{args.input}' no existe\n");
     sys.exit();
 
-sfz_path = sys.argv[1]
 # Directorio base donde se encuentran los archivos .sfz y las muestras
-base_dir = os.path.dirname(sfz_path)
+base_dir = os.path.dirname(args.input)
+
 # Ruta de salida del archivo XML de DrumGizmo
-output_xml_path = sys.argv[2]
+output_xml_path = args.output
 
 # Leer el archivo SFZ y sus includes
-samples = parse_sfz(sfz_path, base_dir)
+samples = parse_sfz(args.input, base_dir)
 
 print (samples)
 
