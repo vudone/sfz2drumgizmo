@@ -197,8 +197,8 @@ def create_drumgizmo_xml(samples, output_xml_path):
 
 parser = argparse.ArgumentParser(description="Params")
 
-parser.add_argument("--input", type=str, help="File Input SFZ")
-parser.add_argument("--output", type=str, help="File Output XML Drumgizmo")
+parser.add_argument("--input", type=str, help="File Input SFZ", required=True)
+parser.add_argument("--output", type=str, help="File Output XML Drumgizmo", required=True)
 
 args = parser.parse_args()
 
