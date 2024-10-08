@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="CieCrashEdge">
+    <samples>
+        <sample name="CieCrashEdge1" power="1.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge2" power="2.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge3" power="3.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge4" power="4.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge5" power="5.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge6" power="6.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge7" power="7.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge8" power="8.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge9" power="9.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="CieCrashEdge10" power="10.0">
+            <audiofile
+              channel="OHL"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="OHR"
+              file="../../SAMPLES/Cie Crash/Edge/VCIE_CRSH_EGFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="KickDrumFeltBeater">
+    <samples>
+        <sample name="KickDrumFeltBeater1" power="1.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater2" power="2.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater3" power="3.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater4" power="4.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater5" power="5.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater6" power="6.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater7" power="7.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater8" power="8.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater9" power="9.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater10" power="10.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater11" power="11.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V11A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V11A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater12" power="12.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V12A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V12A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater13" power="13.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V13A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V13A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater14" power="14.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V14A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V14A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater15" power="15.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V15A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V15A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="KickDrumFeltBeater16" power="16.0">
+            <audiofile
+              channel="KickL"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V16A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="KickR"
+              file="../../SAMPLES/Kick Drum/Felt Beater/PREM_KICK_FTFL_HT_002_V16A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

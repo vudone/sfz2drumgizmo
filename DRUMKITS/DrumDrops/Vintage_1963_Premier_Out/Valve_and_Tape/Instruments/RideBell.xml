@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="RideBell">
+    <samples>
+        <sample name="RideBell1" power="1.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell2" power="2.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell3" power="3.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell4" power="4.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell5" power="5.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell6" power="6.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell7" power="7.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell8" power="8.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell9" power="9.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="RideBell10" power="10.0">
+            <audiofile
+              channel="RideL"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="RideR"
+              file="../../SAMPLES/Ride/Bell/KCUS_RIDE_BLFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

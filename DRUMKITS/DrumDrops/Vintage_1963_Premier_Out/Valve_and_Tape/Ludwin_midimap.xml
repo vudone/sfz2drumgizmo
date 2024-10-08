@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midimap>
+    <map note="79" instr="CieCrashCentre"/>
+    <map note="49" instr="CieCrashEdge"/>
+    <map note="43" instr="FloorTom"/>
+    <map note="68" instr="HiHatClosed"/>
+    <map note="87" instr="HiHatEdgeClosed"/>
+    <map note="85" instr="HiHatEdgeFullyClosed"/>
+    <map note="97" instr="HiHatEdgeOpen"/>
+    <map note="92" instr="HiHatEdgeOpenHalf"/>
+    <map note="90" instr="HiHatEdgeOpenQuarter"/>
+    <map note="94" instr="HiHatEdgeOpenThreeQuarters"/>
+    <map note="42" instr="HiHatFullyClosed"/>
+    <map note="46" instr="HiHatOpen"/>
+    <map note="72" instr="HiHatOpenHalf"/>
+    <map note="71" instr="HiHatOpenQuarter"/>
+    <map note="73" instr="HiHatOpenThreeQuarters"/>
+    <map note="99" instr="HiHatPedalOpen"/>
+    <map note="44" instr="HiHatPedalShut"/>
+    <map note="64" instr="KCrashCentre"/>
+    <map note="57" instr="KCrashEdge"/>
+    <map note="36" instr="KickDrumFeltBeater"/>
+    <map note="35" instr="KickDrumPlasticBeater"/>
+    <map note="53" instr="RideBell"/>
+    <map note="51" instr="RideCentre"/>
+    <map note="52" instr="RideEdge"/>
+    <map note="38" instr="SnareCentre"/>
+    <map note="60" instr="SnareCentreUndamped"/>
+    <map note="82" instr="SnareEdge"/>
+    <map note="83" instr="SnareEdgeUndamped"/>
+    <map note="72" instr="SnareRimshot"/>
+    <map note="84" instr="SnareRimshotUndamped"/>
+    <map note="37" instr="SnareSidestick"/>
+</midimap>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="SnareRimshot">
+    <samples>
+        <sample name="SnareRimshot1" power="1.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot2" power="2.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot3" power="3.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot4" power="4.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot5" power="5.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot6" power="6.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot7" power="7.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot8" power="8.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot9" power="9.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot10" power="10.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot11" power="11.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V11A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V11A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot12" power="12.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V12A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V12A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot13" power="13.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V13A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V13A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot14" power="14.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V14A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V14A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot15" power="15.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V15A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V15A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareRimshot16" power="16.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V16A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Rimshot/PREM_SNR_DRFL_HT_002_V16A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

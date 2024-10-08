@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drumkit name="Vintage Ludwing" description="">
+    <channels>
+        <channel name="FloorTomL1"/>
+        <channel name="FloorTomR1"/>
+        <channel name="HiHatL"/>
+        <channel name="HiHatR"/>
+        <channel name="KickL"/>
+        <channel name="KickR"/>
+        <channel name="OHL"/>
+        <channel name="OHR"/>
+        <channel name="RideL"/>
+        <channel name="RideR"/>
+        <channel name="SnareL"/>
+        <channel name="SnareR"/>
+    </channels>
+    <instruments>
+        <instrument name="CieCrashCentre" file="Instruments/CieCrashCentre.xml">
+            <channelmap in="OHL" out="OHL"/>
+            <channelmap in="OHR" out="OHR"/>
+        </instrument>
+        <instrument name="CieCrashEdge" file="Instruments/CieCrashEdge.xml">
+            <channelmap in="OHL" out="OHL"/>
+            <channelmap in="OHR" out="OHR"/>
+        </instrument>
+        <instrument name="FloorTom" file="Instruments/FloorTom.xml">
+            <channelmap in="FloorTomL1" out="FloorTomL1"/>
+            <channelmap in="FloorTomR1" out="FloorTomR1"/>
+        </instrument>
+        <instrument name="HiHatClosed" group="hihat" file="Instruments/HiHatClosed.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument name="HiHatEdgeClosed" group="hihat" file="Instruments/HiHatEdgeClosed.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument name="HiHatEdgeFullyClosed" group="hihat" file="Instruments/HiHatEdgeFullyClosed.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument name="HiHatEdgeOpen"
+          group="hihat"
+          file="Instruments/HiHatEdgeOpen.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatEdgeOpenHalf"
+          group="hihat"
+          file="Instruments/HiHatEdgeOpenHalf.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatEdgeOpenQuarter"
+          group="hihat"
+          file="Instruments/HiHatEdgeOpenQuarter.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatEdgeOpenThreeQuarters"
+          group="hihat"
+          file="Instruments/HiHatEdgeOpenThreeQuarters.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatFullyClosed"
+          group="hihat"
+          file="Instruments/HiHatFullyClosed.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatOpen"
+          group="hihat"
+          file="Instruments/HiHatOpen.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatOpenHalf"
+          group="hihat"
+          file="Instruments/HiHatOpenHalf.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatOpenQuarter"
+          group="hihat"
+          file="Instruments/HiHatOpenQuarter.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatOpenThreeQuarters"
+          group="hihat"
+          file="Instruments/HiHatOpenThreeQuarters.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatPedalOpen"
+          group="hihat"
+          file="Instruments/HiHatPedalOpen.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument
+          name="HiHatPedalShut"
+          group="hihat"
+          file="Instruments/HiHatPedalShut.xml">
+            <channelmap in="HiHatL" out="HiHatL"/>
+            <channelmap in="HiHatR" out="HiHatR"/>
+        </instrument>
+        <instrument name="KCrashCentre" file="Instruments/KCrashCentre.xml">
+            <channelmap in="OHL" out="OHL"/>
+            <channelmap in="OHR" out="OHR"/>
+        </instrument>
+        <instrument name="KCrashEdge" file="Instruments/KCrashEdge.xml">
+            <channelmap in="OHL" out="OHL"/>
+            <channelmap in="OHR" out="OHR"/>
+        </instrument>
+        <instrument name="KickDrumFeltBeater" file="Instruments/KickDrumFeltBeater.xml">
+            <channelmap in="KickL" out="KickL"/>
+            <channelmap in="KickR" out="KickR"/>
+        </instrument>
+        <instrument name="KickDrumPlasticBeater" file="Instruments/KickDrumPlasticBeater.xml">
+            <channelmap in="KickL" out="KickL"/>
+            <channelmap in="KickR" out="KickR"/>
+        </instrument>
+        <instrument name="RideBell" file="Instruments/RideBell.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="RideCentre" file="Instruments/RideCentre.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="RideEdge" file="Instruments/RideEdge.xml">
+            <channelmap in="RideL" out="RideL"/>
+            <channelmap in="RideR" out="RideR"/>
+        </instrument>
+        <instrument name="SnareCentre" file="Instruments/SnareCentre.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareCentreUndamped" file="Instruments/SnareCentreUndamped.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareEdge" file="Instruments/SnareEdge.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareEdgeUndamped" file="Instruments/SnareEdgeUndamped.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareRimshot" file="Instruments/SnareRimshot.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareRimshotUndamped" file="Instruments/SnareRimshotUndamped.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+        <instrument name="SnareSidestick" file="Instruments/SnareSidestick.xml">
+            <channelmap in="SnareL" out="SnareL"/>
+            <channelmap in="SnareR" out="SnareR"/>
+        </instrument>
+    </instruments>
+</drumkit>

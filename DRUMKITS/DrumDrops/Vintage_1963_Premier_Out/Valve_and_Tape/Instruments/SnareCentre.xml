@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="SnareCentre">
+    <samples>
+        <sample name="SnareCentre1" power="1.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre2" power="2.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre3" power="3.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre4" power="4.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre5" power="5.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre6" power="6.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre7" power="7.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre8" power="8.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre9" power="9.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre10" power="10.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre11" power="11.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V11A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V11A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre12" power="12.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V12A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V12A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre13" power="13.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V13A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V13A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre14" power="14.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V14A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V14A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre15" power="15.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V15A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V15A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="SnareCentre16" power="16.0">
+            <audiofile
+              channel="SnareL"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V16A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="SnareR"
+              file="../../SAMPLES/Snare/Centre/PREM_SNR_DCFL_HT_002_V16A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="HiHatEdgeFullyClosed">
+    <samples>
+        <sample name="HiHatEdgeFullyClosed1" power="1.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed2" power="2.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed3" power="3.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed4" power="4.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed5" power="5.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed6" power="6.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V6A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V6A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed7" power="7.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V7A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V7A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed8" power="8.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V8A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V8A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed9" power="9.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V9A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V9A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed10" power="10.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V10A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V10A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed11" power="11.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V11A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V11A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatEdgeFullyClosed12" power="12.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V12A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Edge Fully Closed/NWBT_HAT_C1EGFL_HT_002_V12A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>

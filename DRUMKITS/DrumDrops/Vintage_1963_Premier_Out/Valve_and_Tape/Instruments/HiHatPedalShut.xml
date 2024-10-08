@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument version="2.0" name="HiHatPedalShut">
+    <samples>
+        <sample name="HiHatPedalShut1" power="1.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V1A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V1A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatPedalShut2" power="2.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V2A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V2A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatPedalShut3" power="3.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V3A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V3A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatPedalShut4" power="4.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V4A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V4A.wav"
+              filechannel="2"/>
+        </sample>
+        <sample name="HiHatPedalShut5" power="5.0">
+            <audiofile
+              channel="HiHatL"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V5A.wav"
+              filechannel="1"/>
+            <audiofile
+              channel="HiHatR"
+              file="../../SAMPLES/Hi Hat/Pedal Shut/NWBT_HAT_FSFL_HT_002_V5A.wav"
+              filechannel="2"/>
+        </sample>
+    </samples>
+</instrument>
