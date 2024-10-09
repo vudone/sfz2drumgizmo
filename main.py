@@ -1,26 +1,34 @@
 import xml.etree.ElementTree as ET
+from pprint import pprint
 import os
 import sys
 import re
 import argparse
 from io import StringIO
 
+defines = {}
+current_master_data = None
+current_group_data = None
+current_global_data = None  # Para manejar <global>
+
 # Clase para almacenar información de muestras
 class Sample:
     def __init__(self):
         self.sample_path = None
-        self.midi_note = None
-        self.loop_mode = None
-        self.off_mode = None
+        self.key = None
         self.control = {}
+        self.filechannel = 1
+        self.channel = None
+        self.instrument = None
+        self.power = None
 
 # Función para manejar la carga de un archivo SFZ
 def parse_sfz(sfz_path, base_dir):
+    global current_master_data
+    global current_group_data
+    global current_global_data
+
     samples = []
-    defines = {}
-    current_master_data = {}
-    current_group_data = {}
-    current_global_data = {}  # Para manejar <global>
     default_path = base_dir
     current_section = ''
 
@@ -31,9 +39,7 @@ def parse_sfz(sfz_path, base_dir):
         for line in lines:
             line = line.strip()
 
-            print ("section: "+current_section)
             print (line)
-
             # Manejar default_path
             if line.startswith("default_path="):
                 default_path = os.path.join(base_dir, line.split('=')[1].strip())
@@ -50,7 +56,7 @@ def parse_sfz(sfz_path, base_dir):
 
             # Reemplazar variables definidas en las líneas posteriores
             for define_key, define_value in defines.items():
-                line = re.sub(rf"\${define_key}", define_value, line)
+                line = line.replace(define_key, define_value)
 
             # Manejar incluye
             if line.startswith("#include"):
@@ -88,7 +94,6 @@ def parse_sfz(sfz_path, base_dir):
             # Manejar <region>
             elif line.startswith("<region>"):
                 sample_data = Sample()  # Crear nueva instancia para la región
-                sample_data.__dict__.update(current_group_data)  # Copiar datos del grupo
                 current_section = 'region'
                 continue
 
@@ -110,7 +115,7 @@ def parse_sfz(sfz_path, base_dir):
                     print("Error, un pitch_keycenter= deberia estar dentro de una region")
                     sys.exit()
 
-            if '=' in line and current_master_data is not None and current_section=='master':
+            if '=' in line and current_section=='master':
                 # Procesar múltiples asignaciones en una línea
                 pairs = line.split()
                 for pair in pairs:
@@ -118,21 +123,21 @@ def parse_sfz(sfz_path, base_dir):
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_master_data[key.strip()] = value.strip()
                 continue
-            elif '=' in line and current_group_data is not None and current_section=='group':
+            elif '=' in line and current_section=='group':
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_group_data[key.strip()] = value.strip()
                 continue
-            elif '=' in line and current_global_data is not None and current_section=='global':
+            elif '=' in line and current_section=='global':
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
                         key, value = pair.split('=', 1)  # Dividir solo en el primer '='
                         current_global_data[key.strip()] = value.strip()
                 continue
-            elif '=' in line and sample_data.control is not None and current_section=='control':
+            elif '=' in line and current_section=='control':
                 pairs = line.split()
                 for pair in pairs:
                     if '=' in pair:
@@ -152,10 +157,16 @@ def parse_sfz(sfz_path, base_dir):
             #if len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
             #if len(line) == 0 and sample_data.sample_path is not None and sample_data.midi_note is not None:  # Fin de la región
             if len(line) == 0 and sample_data.sample_path is not None:  # Fin de la región
+                sample_data.__dict__.update({k: v for k, v in current_master_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
+                sample_data.__dict__.update({k: v for k, v in current_global_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
+                sample_data.__dict__.update({k: v for k, v in current_group_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
+                pprint (current_global_data)
+                pprint (current_master_data)
+                pprint (current_group_data)
+                pprint (vars(sample_data))
                 samples.append(sample_data)
 
 
-    print (sample_data)
     return samples
 
 # Función para crear el archivo XML de DrumGizmo
@@ -178,7 +189,7 @@ def create_drumgizmo_xml(samples, output_xml_path):
 
         # Nota MIDI
         midi_note = ET.SubElement(instrument, "midi_note")
-        midi_note.text = str(sample.midi_note)
+        midi_note.text = str(sample.key)
 
         # Capas de velocidad (esto es opcional, lo básico es un solo sample por nota)
         velocity_layer = ET.SubElement(instrument, "velocity_layer")
@@ -206,7 +217,6 @@ parser.add_argument("--output", type=str, help="File Output XML Drumgizmo", requ
 
 args = parser.parse_args()
 
-print (args)
 # Ruta del archivo SFZ principal
 if not os.path.isfile(args.input):
     print ("El fichero que intentas cargar '{args.input}' no existe\n");
@@ -220,8 +230,6 @@ output_xml_path = args.output
 
 # Leer el archivo SFZ y sus includes
 samples = parse_sfz(args.input, base_dir)
-
-print (samples)
 
 # Crear el archivo XML de DrumGizmo
 create_drumgizmo_xml(samples, output_xml_path)
