@@ -20,7 +20,8 @@ class Sample:
         self.filechannel = 1
         self.channel = None
         self.instrument = None
-        self.power = None
+        self.hivel = None
+        self.seq_position = 1
 
 # Función para manejar la carga de un archivo SFZ
 def parse_sfz(sfz_path, base_dir):
@@ -100,7 +101,8 @@ def parse_sfz(sfz_path, base_dir):
             if line.startswith("sample="):
                 if (current_section == 'region'):
                     sample_path = line.split('=')[1].strip()
-                    sample_data.sample_path = os.path.join(default_path, sample_path) if not os.path.isabs(sample_path) else sample_path
+                    #sample_data.sample_path = os.path.join(default_path, sample_path) if not os.path.isabs(sample_path) else sample_path
+                    sample_data.sample_path = sample_path
                     continue
                 else: 
                     print("warning: Error, un sample= deberia estar dentro de una region")
@@ -157,46 +159,68 @@ def parse_sfz(sfz_path, base_dir):
             #if len(line) == 0 and sample_data.sample_path and sample_data.midi_note is not None:  # Fin de la región
             #if len(line) == 0 and sample_data.sample_path is not None and sample_data.midi_note is not None:  # Fin de la región
             if len(line) == 0 and sample_data.sample_path is not None:  # Fin de la región
-                sample_data.__dict__.update({k: v for k, v in current_master_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
-                sample_data.__dict__.update({k: v for k, v in current_global_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
-                sample_data.__dict__.update({k: v for k, v in current_group_data.items() if k in sample_data.__dict__.items()})  # Copiar datos del grupo
-                pprint (current_global_data)
-                pprint (current_master_data)
-                pprint (current_group_data)
-                pprint (vars(sample_data))
+                sample_data.__dict__.update({k: v for k, v in current_master_data.items() if hasattr(sample_data, k)})  # Copiar datos del grupo
+                sample_data.__dict__.update({k: v for k, v in current_global_data.items() if hasattr(sample_data, k)})  # Copiar datos del grupo
+                sample_data.__dict__.update({k: v for k, v in current_group_data.items() if hasattr(sample_data, k)})  # Copiar datos del grupo
+                elementos = sample_data.sample_path.split('/')
+                sample_data.channel=elementos[2]
+                string = sample_data.sample_path.split('_')
+                if (elementos[3] in string):
+                    pos = string.index(elementos[3])
+                    sample_data.instrument=elementos[3]+' '+string[pos+1]
+                else:
+                    sample_data.instrument=elementos[3]
                 samples.append(sample_data)
+                #pprint (current_master_data)
+                #pprint (current_global_data)
+                #pprint (current_group_data)
+                pprint (vars(sample_data))
+                #print (base_dir)
+                #sys.exit()
 
 
     return samples
 
 # Función para crear el archivo XML de DrumGizmo
+def create_drumgizmo_midimap(samples, output_xml_path):
+    # Crear el árbol XML
+    kit = ET.Element("midimap")
+    maps = []
+
+    for idx, sample in enumerate(samples):
+
+        if not any(new_map == (sample.key, sample.instrument) for new_map in maps):
+            maps.append((sample.key, sample.instrument))
+
+            map = ET.SubElement(kit, "map")
+            map.set('note', sample.key)
+            map.set('instr', sample.instrument)
+    
+    # Crear el árbol XML
+    tree = ET.ElementTree(kit)
+    ET.indent(tree, f" ")
+
+    output = StringIO()
+
+    # Escribir el XML al archivo de salida
+    tree.write(output_xml_path+'_midimap', encoding='utf-8', xml_declaration=True)
+    print(f"XML de DrumGizmo creado: {output_xml_path}_midimap")
+
+# Función para crear el archivo XML de DrumGizmo
 def create_drumgizmo_xml(samples, output_xml_path):
     # Crear el árbol XML
     kit = ET.Element("drumkit")
-    name = ET.SubElement(kit, "name")
-    name.text = "Converted Kit from SFZ"
+    metadata = ET.SubElement(kit, "metadata")
+    channels = ET.SubElement(kit, "channels")
+    instruments = ET.SubElement(kit, "instruments")
 
+    samples_channel = {}
+    
     for idx, sample in enumerate(samples):
-        instrument = ET.SubElement(kit, "instrument")
-
-        # Nombre del instrumento
-        instrument_name = ET.SubElement(instrument, "name")
-        instrument_name.text = f"instrument_{idx}"
-
-        # Ruta de la muestra (sample)
-        filename = ET.SubElement(instrument, "filename")
-        filename.text = sample.sample_path
-
-        # Nota MIDI
-        midi_note = ET.SubElement(instrument, "midi_note")
-        midi_note.text = str(sample.key)
-
-        # Capas de velocidad (esto es opcional, lo básico es un solo sample por nota)
-        velocity_layer = ET.SubElement(instrument, "velocity_layer")
-        min_vel = ET.SubElement(velocity_layer, "min_velocity")
-        max_vel = ET.SubElement(velocity_layer, "max_velocity")
-        min_vel.text = "1"
-        max_vel.text = "127"
+        if sample.channel not in samples_channel:
+            samples_channel[sample.channel] = []
+            channel = ET.SubElement(channels, 'channel')
+            channel.set('name', sample.channel)
 
     # Crear el árbol XML
     tree = ET.ElementTree(kit)
@@ -230,6 +254,9 @@ output_xml_path = args.output
 
 # Leer el archivo SFZ y sus includes
 samples = parse_sfz(args.input, base_dir)
+
+# Crear el archivo XML de DrumGizmo
+create_drumgizmo_midimap(samples, output_xml_path)
 
 # Crear el archivo XML de DrumGizmo
 create_drumgizmo_xml(samples, output_xml_path)
