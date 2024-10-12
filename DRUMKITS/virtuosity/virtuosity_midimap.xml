@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<midimap>
+ <map note="35" instr="kick snoff" />
+ <map note="36" instr="kick snon" />
+ <map note="35" instr="kick snon" />
+ <map note="36" instr="kick snoff" />
+ <map note="37" instr="snare stickshot1" />
+ <map note="38" instr="snare center" />
+ <map note="39" instr="snare offcenter" />
+ <map note="40" instr="snare rimshot" />
+ <map note="85" instr="snare stickshot2" />
+ <map note="86" instr="snare muted" />
+ <map note="87" instr="snare halfopen" />
+ <map note="88" instr="snare crossstick" />
+ <map note="93" instr="snare buzz" />
+ <map note="95" instr="snare flam" />
+ <map note="95" instr="snare roll" />
+ <map note="95" instr="snare center" />
+ <map note="37" instr="snareoff stickshot1" />
+ <map note="38" instr="snareoff center" />
+ <map note="39" instr="snareoff offcenter" />
+ <map note="40" instr="snareoff stickshot2" />
+ <map note="85" instr="snareoff stickshot2" />
+ <map note="86" instr="snareoff muted" />
+ <map note="87" instr="snareoff halfopen" />
+ <map note="88" instr="snareoff crossstick" />
+ <map note="93" instr="snareoff buzz" />
+ <map note="95" instr="snareoff flam" />
+ <map note="95" instr="snareoff roll" />
+ <map note="95" instr="snareoff center" />
+ <map note="42" instr="hh closed" />
+ <map note="44" instr="hh pedal" />
+ <map note="46" instr="hh open" />
+ <map note="90" instr="hh half" />
+ <map note="92" instr="hh splash" />
+ <map note="94" instr="hh 34" />
+ <map note="49" instr="crash crash" />
+ <map note="57" instr="crash sizzle" />
+ <map note="51" instr="ride ride" />
+ <map note="53" instr="ride bell" />
+ <map note="59" instr="flatride ride" />
+ <map note="55" instr="flatride crash" />
+ <map note="41" instr="ltom center" />
+ <map note="43" instr="ltom offcenter" />
+ <map note="45" instr="ltom rimshot" />
+ <map note="47" instr="ltom crossstick" />
+ <map note="89" instr="ltom muted" />
+ <map note="91" instr="ltom halfopen" />
+ <map note="48" instr="htom center" />
+ <map note="50" instr="htom offcenter" />
+ <map note="50" instr="tambourine" />
+ <map note="50" instr="cowbell" />
+ <map note="50" instr="vibraslap" />
+ <map note="50" instr="bongoh" />
+ <map note="50" instr="BongoL" />
+ <map note="50" instr="conga" />
+ <map note="50" instr="tumba" />
+ <map note="50" instr="agogo" />
+ <map note="50" instr="cabasa" />
+ <map note="50" instr="shaker" />
+ <map note="50" instr="whistle" />
+ <map note="50" instr="guiro" />
+ <map note="50" instr="claves" />
+ <map note="50" instr="triangle" />
+ <map note="50" instr="sleighbells" />
+ <map note="50" instr="belltree" />
+</midimap>

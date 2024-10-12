@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="snareoff roll 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snareoff/kickmic_snareoff_roll_vl1.wav" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/snareoff/kickmic_snareoff_roll_vl2.wav" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/snareoff/kickmic_snareoff_roll_vl3.wav" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/snareoff/kickmic_snareoff_roll_vl4.wav" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/snareoff/kickmic_snareoff_roll_vl4.wav" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snareoff/snaremic_snareoff_roll_vl1.wav" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snareoff/snaremic_snareoff_roll_vl2.wav" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snareoff/snaremic_snareoff_roll_vl3.wav" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snareoff/snaremic_snareoff_roll_vl4.wav" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snareoff/snaremic_snareoff_roll_vl4.wav" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl1.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl1.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl2.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl2.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl3.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl3.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl1.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl1.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl2.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl2.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl3.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl3.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snareoff/mid_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl1.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl1.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl2.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl2.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl3.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl3.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl1.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl1.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl2.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl2.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl3.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl3.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snareoff/room_snareoff_roll_vl4.wav" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl1.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl2.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl3.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl4.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl4.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl1.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl2.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl3.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl4.wav" />
+   <audiofile channel="lofi" file="../Samples/lofi/snareoff/lofi_snareoff_roll_vl4.wav" />
+  </sample>
+ </samples>
+</instrument>

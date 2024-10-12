@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="tambourine 1" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr1_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr1_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr1_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr1_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 2" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr2_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr2_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr2_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr2_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 3" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr3_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr3_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr3_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr3_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 4" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr4_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr4_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr4_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr4_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 5" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr5_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr5_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr5_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr5_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 6" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr6_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr6_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr6_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr6_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 7" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr7_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr7_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr7_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr7_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 8" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr8_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr8_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr8_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr8_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr8_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="tambourine 9" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/tambourine/Tamb1_Shake_rr9_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr9_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr9_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr9_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/tambourine/Tamb1_Shake_rr9_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.wav" filechannel="2" />
+  </sample>
+ </samples>
+</instrument>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="flatride ride 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl1_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl1_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr1.flac" />
+  </sample>
+  <sample name="flatride ride 2" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl1_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl1_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr2.flac" />
+  </sample>
+  <sample name="flatride ride 3" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl1_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl1_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr3.flac" />
+  </sample>
+  <sample name="flatride ride 4" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl1_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl1_rr4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl1_rr4.flac" />
+  </sample>
+  <sample name="flatride ride 1" power="43">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl2_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl2_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr1.flac" />
+  </sample>
+  <sample name="flatride ride 2" power="43">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl2_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl2_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr2.flac" />
+  </sample>
+  <sample name="flatride ride 3" power="43">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl2_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl2_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr3.flac" />
+  </sample>
+  <sample name="flatride ride 4" power="43">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl2_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl2_rr4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl2_rr4.flac" />
+  </sample>
+  <sample name="flatride ride 1" power="86">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl3_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl3_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr1.flac" />
+  </sample>
+  <sample name="flatride ride 2" power="86">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl3_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl3_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr2.flac" />
+  </sample>
+  <sample name="flatride ride 3" power="86">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_ride_vl3_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_ride_vl3_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_ride_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_ride_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_ride_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_ride_vl3_rr3.flac" />
+  </sample>
+ </samples>
+</instrument>

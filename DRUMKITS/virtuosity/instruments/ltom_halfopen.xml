@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="ltom halfopen 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl1.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="8">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl2.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="16">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl3.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="24">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl4.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl5.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl5.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl5.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl5.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl5.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl5.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="40">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl6.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl6.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl6.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl6.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl6.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl6.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="48">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl7.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl7.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl7.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl7.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl7.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl7.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="56">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl8.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl8.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl8.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl8.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl8.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl8.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl8.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl8.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl8.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl8.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl8.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl8.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl9.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl9.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl9.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl9.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl9.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl9.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl9.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl9.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl9.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl9.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl9.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl9.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="72">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl10.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl10.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl10.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl10.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl10.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl10.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl10.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl10.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl10.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl10.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl10.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl10.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="80">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl11.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl11.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl11.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl11.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl11.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl11.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl11.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl11.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl11.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl11.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl11.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl11.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="88">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl12.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl12.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl12.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl12.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl12.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl12.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl12.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl12.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl12.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl12.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl12.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl12.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="96">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl13.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl13.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl13.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl13.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl13.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl13.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl13.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl13.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl13.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl13.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl13.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl13.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="104">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl14.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl14.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl14.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl14.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl14.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl14.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl14.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl14.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl14.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl14.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl14.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl14.flac" />
+  </sample>
+  <sample name="ltom halfopen 1" power="112">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_halfopen_vl15.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_halfopen_vl15.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl15.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl15.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_halfopen_vl15.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_halfopen_vl15.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl15.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl15.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_halfopen_vl15.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_halfopen_vl15.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl15.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_halfopen_vl15.flac" />
+  </sample>
+ </samples>
+</instrument>

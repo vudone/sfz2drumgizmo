@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="flatride crash 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_crash_vl1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_crash_vl1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl1.flac" />
+  </sample>
+  <sample name="flatride crash 1" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_crash_vl2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_crash_vl2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl2.flac" />
+  </sample>
+  <sample name="flatride crash 1" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/flatride/kickmic_flatride_crash_vl3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/flatride/snaremic_flatride_crash_vl3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/flatride/mid_flatride_crash_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/flatride/mid_flatride_crash_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/flatride/room_flatride_crash_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/flatride/room_flatride_crash_vl3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/flatride/lofi_flatride_crash_vl3.flac" />
+  </sample>
+ </samples>
+</instrument>

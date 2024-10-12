@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="conga 1" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr1_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 2" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr2_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 3" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr3_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 4" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr4_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 5" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr5_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 6" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr6_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 7" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr7_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 8" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_1_70_rr8_Close.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_1_50_rr8_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_1_70_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr8_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr8_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 1" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 2" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 3" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 4" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 5" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 6" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 7" power="64">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_17_HitHM1_71_127_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr7_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 1" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 2" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 3" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 4" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 5" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 6" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 7" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 8" power="85">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_101_127_rr8_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr8_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr8_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 1" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr1_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr1_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 2" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr2_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr2_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 3" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr3_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr3_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 4" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr4_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr4_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 5" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr5_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr5_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 6" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr6_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr6_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="conga 7" power="43">
+   <audiofile channel="close" file="../Samples/perc/close/conga/Conga_22_HitN_51_100_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr7_Mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr7_Mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.wav" filechannel="2" />
+  </sample>
+ </samples>
+</instrument>

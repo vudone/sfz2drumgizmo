@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="hh splash 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/hh/kickmic_hh_splash_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/hh/snaremic_hh_splash_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr1.flac" />
+  </sample>
+  <sample name="hh splash 2" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/hh/kickmic_hh_splash_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/hh/snaremic_hh_splash_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr2.flac" />
+  </sample>
+  <sample name="hh splash 3" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/hh/kickmic_hh_splash_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/hh/snaremic_hh_splash_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/hh/mid_hh_splash_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/hh/mid_hh_splash_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/hh/room_hh_splash_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/hh/room_hh_splash_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/hh/lofi_hh_splash_rr3.flac" />
+  </sample>
+ </samples>
+</instrument>

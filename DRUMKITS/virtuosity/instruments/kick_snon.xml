@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="kick snon 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr1.flac" />
+  </sample>
+  <sample name="kick snon 2" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr2.flac" />
+  </sample>
+  <sample name="kick snon 3" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr3.flac" />
+  </sample>
+  <sample name="kick snon 4" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl1_rr4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl1_rr4.flac" />
+  </sample>
+  <sample name="kick snon 1" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr1.flac" />
+  </sample>
+  <sample name="kick snon 2" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr2.flac" />
+  </sample>
+  <sample name="kick snon 3" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr3.flac" />
+  </sample>
+  <sample name="kick snon 4" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl2_rr4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl2_rr4.flac" />
+  </sample>
+  <sample name="kick snon 1" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr1.flac" />
+  </sample>
+  <sample name="kick snon 2" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr2.flac" />
+  </sample>
+  <sample name="kick snon 3" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr3.flac" />
+  </sample>
+  <sample name="kick snon 4" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl3_rr4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl3_rr4.flac" />
+  </sample>
+  <sample name="kick snon 1" power="96">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr1.flac" />
+  </sample>
+  <sample name="kick snon 2" power="96">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr2.flac" />
+  </sample>
+  <sample name="kick snon 3" power="96">
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="kickmic" file="../Samples/kickmic/kick/kickmic_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/kick/snaremic_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/kick/mid_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/kick/room_kick_snon_vl4_rr3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/kick/lofi_kick_snon_vl4_rr3.flac" />
+  </sample>
+ </samples>
+</instrument>

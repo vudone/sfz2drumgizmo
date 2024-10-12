@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="sleighbells 1" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr1_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr1_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr1_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr1_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr1_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr1_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr1_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr1_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 2" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr2_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr2_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr2_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr2_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr2_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr2_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr2_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr2_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 3" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr3_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr3_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr3_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr3_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr3_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr3_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr3_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr3_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 4" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr4_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr4_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr4_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr4_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr4_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr4_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr4_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr4_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 5" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr5_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr5_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr5_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr5_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr5_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr5_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr5_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr5_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 6" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr6_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr6_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr6_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr6_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr6_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr6_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr6_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr6_Far.wav" filechannel="2" />
+  </sample>
+  <sample name="sleighbells 7" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/sleighbells/Sleighbells_Hit_rr7_Close.wav" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr7_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr7_mid.wav" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr7_mid.wav" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/perc/mid/sleighbells/Sleighbells_Hit_rr7_mid.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr7_Far.wav" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr7_Far.wav" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr7_Far.wav" filechannel="2" />
+  </sample>
+ </samples>
+</instrument>

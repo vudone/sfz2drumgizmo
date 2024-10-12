@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="snare stickshot1 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl1.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="16">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl2.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="32">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl3.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="48">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl4.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl5.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl5.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl5.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl5.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl5.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl5.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="80">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl6.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl6.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl6.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl6.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl6.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl6.flac" />
+  </sample>
+  <sample name="snare stickshot1 1" power="96">
+   <audiofile channel="kickmic" file="../Samples/kickmic/snare/kickmic_snare_stickshot1_vl7.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/snare/snaremic_snare_stickshot1_vl7.flac" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl7.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/snare/mid_snare_stickshot1_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/snare/mid_snare_stickshot1_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/snare/room_snare_stickshot1_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/snare/room_snare_stickshot1_vl7.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl7.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/snare/lofi_snare_stickshot1_vl7.flac" />
+  </sample>
+ </samples>
+</instrument>

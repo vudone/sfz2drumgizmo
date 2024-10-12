@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="ltom rimshot 1" power="1">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl1.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl1.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl1.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl1.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl1.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl1.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl1.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl1.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl1.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="13">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl2.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl2.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl2.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl2.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl2.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl2.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl2.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl2.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl2.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="26">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl3.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl3.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl3.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl3.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl3.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl3.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl3.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl3.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl3.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="38">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl4.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl4.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl4.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl4.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl4.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl4.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl4.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl4.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl4.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="51">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl5.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl5.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl5.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl5.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl5.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl5.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl5.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl5.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl5.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="64">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl6.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl6.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl6.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl6.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl6.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl6.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl6.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl6.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl6.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="76">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl7.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl7.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl7.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl7.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl7.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl7.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl7.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl7.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl7.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="89">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl8.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl8.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl8.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl8.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl8.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl8.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl8.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl8.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl8.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl8.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl8.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl8.flac" />
+  </sample>
+  <sample name="ltom rimshot 1" power="102">
+   <audiofile channel="kickmic" file="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl9.flac" />
+   <audiofile channel="snaremic" file="../Samples/snaremic/ltom/snaremic_ltom_rimshot_vl9.flac" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl9.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl9.flac" filechannel="2" />
+   <audiofile channel="midL" file="../Samples/mid/ltom/mid_ltom_rimshot_vl9.flac" filechannel="1" />
+   <audiofile channel="midR" file="../Samples/mid/ltom/mid_ltom_rimshot_vl9.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl9.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl9.flac" filechannel="2" />
+   <audiofile channel="roomL" file="../Samples/room/ltom/room_ltom_rimshot_vl9.flac" filechannel="1" />
+   <audiofile channel="roomR" file="../Samples/room/ltom/room_ltom_rimshot_vl9.flac" filechannel="2" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl9.flac" />
+   <audiofile channel="lofi" file="../Samples/lofi/ltom/lofi_ltom_rimshot_vl9.flac" />
+  </sample>
+ </samples>
+</instrument>

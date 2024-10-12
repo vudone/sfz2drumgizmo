@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<drumkit>
+ <metadata />
+ <channels>
+  <channel name="kickmic" />
+  <channel name="snaremic" />
+  <channel name="close" />
+  <channel name="midL" />
+  <channel name="midR" />
+  <channel name="roomL" />
+  <channel name="roomR" />
+  <channel name="lofi" />
+ </channels>
+ <instruments>
+  <instrument name="kick snoff" file="instruments/kick_snoff.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="kick snon" file="instruments/kick_snon.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare stickshot1" file="instruments/snare_stickshot1.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare center" file="instruments/snare_center.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare offcenter" file="instruments/snare_offcenter.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare rimshot" file="instruments/snare_rimshot.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare stickshot2" file="instruments/snare_stickshot2.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare muted" file="instruments/snare_muted.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare halfopen" file="instruments/snare_halfopen.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare crossstick" file="instruments/snare_crossstick.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare buzz" file="instruments/snare_buzz.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare flam" file="instruments/snare_flam.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snare roll" file="instruments/snare_roll.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff stickshot1" file="instruments/snareoff_stickshot1.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff center" file="instruments/snareoff_center.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff offcenter" file="instruments/snareoff_offcenter.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff stickshot2" file="instruments/snareoff_stickshot2.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff muted" file="instruments/snareoff_muted.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff halfopen" file="instruments/snareoff_halfopen.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff crossstick" file="instruments/snareoff_crossstick.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff buzz" file="instruments/snareoff_buzz.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff flam" file="instruments/snareoff_flam.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="snareoff roll" file="instruments/snareoff_roll.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh closed" file="instruments/hh_closed.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh pedal" file="instruments/hh_pedal.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh open" file="instruments/hh_open.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh half" file="instruments/hh_half.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh splash" file="instruments/hh_splash.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="hh 34" file="instruments/hh_34.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="crash crash" file="instruments/crash_crash.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="crash sizzle" file="instruments/crash_sizzle.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ride ride" file="instruments/ride_ride.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ride bell" file="instruments/ride_bell.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="flatride ride" file="instruments/flatride_ride.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="flatride crash" file="instruments/flatride_crash.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom center" file="instruments/ltom_center.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom offcenter" file="instruments/ltom_offcenter.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom rimshot" file="instruments/ltom_rimshot.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom crossstick" file="instruments/ltom_crossstick.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom muted" file="instruments/ltom_muted.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="ltom halfopen" file="instruments/ltom_halfopen.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="htom center" file="instruments/htom_center.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="htom offcenter" file="instruments/htom_offcenter.xml">
+   <channel in="kickmic" out="kickmic" />
+   <channel in="snaremic" out="snaremic" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+   <channel in="lofi" out="lofi" />
+  </instrument>
+  <instrument name="tambourine" file="instruments/tambourine.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="cowbell" file="instruments/cowbell.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="vibraslap" file="instruments/vibraslap.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="bongoh" file="instruments/bongoh.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="BongoL" file="instruments/BongoL.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="conga" file="instruments/conga.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="tumba" file="instruments/tumba.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="agogo" file="instruments/agogo.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="cabasa" file="instruments/cabasa.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="shaker" file="instruments/shaker.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="whistle" file="instruments/whistle.xml">
+   <channel in="close" out="close" />
+  </instrument>
+  <instrument name="guiro" file="instruments/guiro.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="claves" file="instruments/claves.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="triangle" file="instruments/triangle.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="sleighbells" file="instruments/sleighbells.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+  <instrument name="belltree" file="instruments/belltree.xml">
+   <channel in="close" out="close" />
+   <channel in="midL" out="midL" />
+   <channel in="midR" out="midR" />
+   <channel in="roomL" out="roomL" />
+   <channel in="roomR" out="roomR" />
+  </instrument>
+ </instruments>
+</drumkit>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<instrument>
+ <samples>
+  <sample name="whistle 1" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-001.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Long-001.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-001.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Long-001.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-001.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Long-001.wav" />
+  </sample>
+  <sample name="whistle 2" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-002.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-002.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-002.wav" />
+  </sample>
+  <sample name="whistle 3" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-003.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-003.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-003.wav" />
+  </sample>
+  <sample name="whistle 4" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-004.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-004.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-004.wav" />
+  </sample>
+  <sample name="whistle 5" power="1">
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-005.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-005.wav" />
+   <audiofile channel="close" file="../Samples/perc/close/whistle/Close_BallWhistle_Short-005.wav" />
+  </sample>
+ </samples>
+</instrument>
